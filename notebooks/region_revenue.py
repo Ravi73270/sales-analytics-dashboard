@@ -4,8 +4,9 @@ Region-wise revenue breakdown -- donut chart.
 import pandas as pd
 import matplotlib.pyplot as plt
 
-DATA_DIR = "/home/claude/sales-analytics-dashboard/data"
-OUT_DIR = "/home/claude/sales-analytics-dashboard/notebooks"
+from pathlib import Path
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+OUT_DIR = Path(__file__).resolve().parent.parent / "notebooks"
 
 orders = pd.read_csv(f"{DATA_DIR}/orders.csv")
 customers = pd.read_csv(f"{DATA_DIR}/customers.csv")
