@@ -1,0 +1,601 @@
+customer_id,recency,frequency,monetary,cluster,segment,customer_name,region,customer_type
+CUST-00001,31,18,24832.649999999998,0,Champions,Allison Hill,West,Home Office
+CUST-00002,23,17,26447.510000000002,0,Champions,Brian Yang,Central,Corporate
+CUST-00003,82,15,10096.54,1,Occasional / Low-Value,Javier Johnson,East,Consumer
+CUST-00004,30,11,6940.38,1,Occasional / Low-Value,Lance Hoffman,Central,Corporate
+CUST-00005,27,11,12212.92,1,Occasional / Low-Value,Kimberly Robinson,Central,Home Office
+CUST-00006,38,14,16459.0,2,Loyal Customers,Sean Blake,South,Consumer
+CUST-00007,9,14,15973.11,2,Loyal Customers,Gina Moore,North,Consumer
+CUST-00008,2,14,14091.37,1,Occasional / Low-Value,Brandon Davis,Central,Consumer
+CUST-00009,30,11,13774.99,1,Occasional / Low-Value,Dennis Williams,East,Corporate
+CUST-00010,33,15,17324.25,2,Loyal Customers,Valerie Gray,West,Home Office
+CUST-00011,37,17,21317.05,2,Loyal Customers,Mark Mcclure,East,Consumer
+CUST-00012,9,10,11098.11,1,Occasional / Low-Value,Michele Williams,North,Consumer
+CUST-00013,4,9,11388.53,1,Occasional / Low-Value,Victoria Wyatt,Central,Consumer
+CUST-00014,19,19,21785.57,0,Champions,Donald Reid,West,Home Office
+CUST-00015,3,14,15615.32,2,Loyal Customers,Henry Santiago,South,Consumer
+CUST-00016,101,17,12552.4,3,At Risk,Maria Lynch,Central,Consumer
+CUST-00017,51,20,20063.28,0,Champions,Danielle Ford,West,Consumer
+CUST-00018,12,15,22090.1,2,Loyal Customers,Margaret Hawkins DDS,East,Home Office
+CUST-00019,166,8,7651.63,3,At Risk,Amy Underwood,South,Corporate
+CUST-00020,33,13,16043.28,1,Occasional / Low-Value,Derek Clark,South,Corporate
+CUST-00021,19,20,21587.78,0,Champions,Emily Rios,South,Corporate
+CUST-00022,98,18,22922.3,0,Champions,Maria Thomas,South,Home Office
+CUST-00023,23,17,22563.67,2,Loyal Customers,Justin Baker,West,Consumer
+CUST-00024,23,14,26834.11,2,Loyal Customers,Kevin Cox,Central,Consumer
+CUST-00025,36,13,17626.2,2,Loyal Customers,Ann Williams,Central,Corporate
+CUST-00026,58,9,9011.79,1,Occasional / Low-Value,Christopher Becker,West,Corporate
+CUST-00027,90,16,17406.25,2,Loyal Customers,James Ferrell,North,Consumer
+CUST-00028,45,13,12289.6,1,Occasional / Low-Value,Juan Dunlap,North,Consumer
+CUST-00029,62,13,10362.91,1,Occasional / Low-Value,Melanie Herrera,North,Consumer
+CUST-00030,36,19,23252.86,0,Champions,Gina Carter,East,Consumer
+CUST-00031,28,15,23292.06,2,Loyal Customers,Troy Liu,East,Corporate
+CUST-00032,98,15,25053.79,2,Loyal Customers,Pamela Romero,Central,Home Office
+CUST-00033,28,17,20070.260000000002,2,Loyal Customers,Elizabeth Fowler,North,Home Office
+CUST-00034,85,12,14711.28,1,Occasional / Low-Value,James Martin,West,Consumer
+CUST-00035,5,17,19685.78,2,Loyal Customers,Tamara George,Central,Corporate
+CUST-00036,76,21,27439.38,0,Champions,Timothy Koch,East,Corporate
+CUST-00037,54,14,13359.14,1,Occasional / Low-Value,Cynthia Allen,Central,Home Office
+CUST-00038,29,16,17767.87,2,Loyal Customers,Angelica Tucker,North,Corporate
+CUST-00039,174,11,13941.52,3,At Risk,Kim Martinez,East,Consumer
+CUST-00040,25,11,11250.67,1,Occasional / Low-Value,Joshua Baker,South,Consumer
+CUST-00041,34,10,14879.45,1,Occasional / Low-Value,Tracey Hickman,East,Consumer
+CUST-00042,26,14,16440.18,2,Loyal Customers,Christina Collins,North,Consumer
+CUST-00043,71,15,17620.41,2,Loyal Customers,Jessica Holmes,West,Home Office
+CUST-00044,34,13,19307.78,2,Loyal Customers,Austin Smith,Central,Consumer
+CUST-00045,8,18,23622.6,0,Champions,Daniel Jones,West,Home Office
+CUST-00046,29,18,18927.61,2,Loyal Customers,Austin Johnson,East,Corporate
+CUST-00047,1,24,23721.6,0,Champions,David Caldwell,South,Corporate
+CUST-00048,36,11,13119.8,1,Occasional / Low-Value,Miranda Khan,North,Consumer
+CUST-00049,25,14,18788.62,2,Loyal Customers,Richard Aguirre,West,Consumer
+CUST-00050,85,6,7295.26,1,Occasional / Low-Value,Matthew Gomez,East,Consumer
+CUST-00051,8,13,25644.84,2,Loyal Customers,Nicholas Nunez,West,Consumer
+CUST-00052,94,20,20454.11,0,Champions,James Morgan,North,Consumer
+CUST-00053,14,18,28601.05,0,Champions,Corey Herrera,North,Corporate
+CUST-00054,8,15,18331.04,2,Loyal Customers,Donald Wright,East,Consumer
+CUST-00055,221,8,13343.51,3,At Risk,Robert Chase,East,Consumer
+CUST-00056,8,12,16222.619999999999,1,Occasional / Low-Value,Zachary Huff,North,Consumer
+CUST-00057,77,19,20622.14,0,Champions,Sarah Martin,East,Consumer
+CUST-00058,22,15,20256.24,2,Loyal Customers,Dr. Steven Martin,North,Consumer
+CUST-00059,39,11,10382.0,1,Occasional / Low-Value,Mrs. Rachel Gibson,North,Consumer
+CUST-00060,225,13,17387.1,3,At Risk,Monica Logan,South,Corporate
+CUST-00061,51,13,11978.74,1,Occasional / Low-Value,Brittney Phillips,North,Home Office
+CUST-00062,13,11,19305.67,2,Loyal Customers,Kimberly Adkins,North,Home Office
+CUST-00063,19,18,34887.93,0,Champions,John Calhoun,Central,Consumer
+CUST-00064,16,12,16632.04,1,Occasional / Low-Value,Tyler Miller,East,Corporate
+CUST-00065,20,16,21802.899999999998,2,Loyal Customers,Barry Hensley,West,Consumer
+CUST-00066,164,9,12849.6,3,At Risk,Steve Sanchez,West,Consumer
+CUST-00067,68,11,11385.39,1,Occasional / Low-Value,Bradley Sandoval,East,Consumer
+CUST-00068,8,19,18810.84,2,Loyal Customers,Taylor Harris,Central,Corporate
+CUST-00069,45,12,12116.45,1,Occasional / Low-Value,Derek Anderson,East,Corporate
+CUST-00070,24,12,17006.18,1,Occasional / Low-Value,Eugene Walton,North,Consumer
+CUST-00071,7,13,12976.640000000001,1,Occasional / Low-Value,Marc Hart,Central,Home Office
+CUST-00072,44,18,14501.13,2,Loyal Customers,Daniel Baker,West,Consumer
+CUST-00073,29,13,15710.11,1,Occasional / Low-Value,Benjamin Sanchez,East,Consumer
+CUST-00074,70,10,11650.85,1,Occasional / Low-Value,Roy Warner,West,Home Office
+CUST-00075,1,15,15504.18,2,Loyal Customers,Dr. Kendra Contreras,South,Corporate
+CUST-00076,25,14,7445.530000000001,1,Occasional / Low-Value,Matthew Mcmillan,West,Corporate
+CUST-00077,7,15,15607.94,2,Loyal Customers,Steve Newton,South,Consumer
+CUST-00078,54,8,4792.65,1,Occasional / Low-Value,Larry Robbins,South,Home Office
+CUST-00079,54,16,21015.05,2,Loyal Customers,Sarah Wagner,West,Consumer
+CUST-00080,184,8,10009.37,3,At Risk,Sarah Davis,West,Corporate
+CUST-00081,41,19,13299.97,2,Loyal Customers,Amanda Cook,East,Consumer
+CUST-00082,10,17,16096.460000000001,2,Loyal Customers,Deborah Figueroa,East,Corporate
+CUST-00083,17,14,12156.74,1,Occasional / Low-Value,Kristina Rodriguez,East,Home Office
+CUST-00084,10,17,16765.27,2,Loyal Customers,Brittany Johnson,North,Corporate
+CUST-00085,227,7,5878.290000000001,3,At Risk,Brittany Anderson,North,Consumer
+CUST-00086,29,14,20342.08,2,Loyal Customers,Timothy Stanton,West,Corporate
+CUST-00087,1,17,23149.86,0,Champions,Christine Wright,North,Corporate
+CUST-00088,23,15,14368.84,2,Loyal Customers,Justin Baxter,South,Consumer
+CUST-00089,9,25,28206.149999999998,0,Champions,Tammy Young,South,Corporate
+CUST-00090,1,16,16677.16,2,Loyal Customers,Rita Keith,Central,Consumer
+CUST-00091,43,14,12245.2,1,Occasional / Low-Value,Tim Patton,West,Consumer
+CUST-00092,36,13,11338.5,1,Occasional / Low-Value,Sharon Cochran,West,Consumer
+CUST-00093,36,21,25964.9,0,Champions,Michael Reyes,East,Corporate
+CUST-00094,14,19,20914.8,0,Champions,Courtney Velasquez,West,Consumer
+CUST-00095,65,15,18765.73,2,Loyal Customers,Robert Savage,Central,Consumer
+CUST-00096,51,13,11311.67,1,Occasional / Low-Value,Corey Murphy,East,Corporate
+CUST-00097,74,16,21087.69,2,Loyal Customers,Raymond Bell,North,Corporate
+CUST-00098,42,22,23510.74,0,Champions,William Herrera,North,Consumer
+CUST-00099,105,12,7860.65,3,At Risk,Shawn Green,East,Corporate
+CUST-00100,24,14,10484.66,1,Occasional / Low-Value,Deborah Rodriguez,North,Consumer
+CUST-00101,20,14,24364.29,2,Loyal Customers,Richard Graham,West,Consumer
+CUST-00102,20,16,25786.63,0,Champions,Steven Lee,Central,Home Office
+CUST-00103,40,18,14298.78,2,Loyal Customers,April Frost,Central,Home Office
+CUST-00104,28,15,21487.63,2,Loyal Customers,Teresa Mclaughlin,Central,Corporate
+CUST-00105,4,15,21820.0,2,Loyal Customers,Benjamin Beck,West,Consumer
+CUST-00106,10,12,10557.08,1,Occasional / Low-Value,Mary Martinez,North,Consumer
+CUST-00107,33,19,18250.27,2,Loyal Customers,Eric Ortiz,South,Corporate
+CUST-00108,1,10,15324.4,1,Occasional / Low-Value,Kristen Lee,South,Home Office
+CUST-00109,37,17,19715.59,2,Loyal Customers,Megan Orr,South,Corporate
+CUST-00110,27,18,20588.3,2,Loyal Customers,Jennifer Bass,South,Consumer
+CUST-00111,29,14,15859.29,2,Loyal Customers,Jeffrey Carpenter,South,Consumer
+CUST-00112,25,22,22843.24,0,Champions,Jeremy Lowe,North,Consumer
+CUST-00113,1,23,28487.48,0,Champions,Steven Flynn,Central,Consumer
+CUST-00114,5,16,18272.73,2,Loyal Customers,Diane Beck,East,Consumer
+CUST-00115,69,17,19517.19,2,Loyal Customers,Robert Potter,Central,Consumer
+CUST-00116,40,17,26262.57,0,Champions,Robert Hernandez,North,Corporate
+CUST-00117,29,15,17753.46,2,Loyal Customers,John Atkinson,North,Consumer
+CUST-00118,9,14,16684.77,2,Loyal Customers,Stephen Johnston,West,Home Office
+CUST-00119,32,20,22695.36,0,Champions,Kathleen Sanchez,West,Corporate
+CUST-00120,11,18,24609.05,0,Champions,Stephanie Dalton,East,Consumer
+CUST-00121,51,18,17752.46,2,Loyal Customers,Jeffery Thompson,Central,Corporate
+CUST-00122,6,16,15467.4,2,Loyal Customers,Amber Wright,North,Consumer
+CUST-00123,12,13,15244.63,1,Occasional / Low-Value,Casey Marshall,East,Consumer
+CUST-00124,1,19,22255.02,0,Champions,Linda Dodson DVM,Central,Consumer
+CUST-00125,4,19,16810.77,2,Loyal Customers,Stephanie Simmons,West,Corporate
+CUST-00126,160,12,11648.869999999999,3,At Risk,Stephanie Manning,West,Consumer
+CUST-00127,2,10,13831.29,1,Occasional / Low-Value,Paul Larsen,West,Consumer
+CUST-00128,38,11,12992.68,1,Occasional / Low-Value,Kelly Sims,West,Corporate
+CUST-00129,130,15,13289.88,3,At Risk,Micheal Young,North,Consumer
+CUST-00130,15,15,14886.15,2,Loyal Customers,Joshua Taylor,West,Corporate
+CUST-00131,7,16,14625.009999999998,2,Loyal Customers,Christian Lewis,Central,Consumer
+CUST-00132,17,13,10740.56,1,Occasional / Low-Value,Joshua Perry,North,Corporate
+CUST-00133,57,18,25837.88,0,Champions,Jean Carrillo,South,Home Office
+CUST-00134,15,12,13487.03,1,Occasional / Low-Value,Spencer Johnston,South,Consumer
+CUST-00135,57,10,11750.86,1,Occasional / Low-Value,Guy Molina,North,Corporate
+CUST-00136,62,17,18058.04,2,Loyal Customers,Sara Medina,North,Home Office
+CUST-00137,23,15,10784.05,1,Occasional / Low-Value,Lindsey Walker,Central,Corporate
+CUST-00138,54,10,10422.189999999999,1,Occasional / Low-Value,John Price,East,Consumer
+CUST-00139,4,13,13182.48,1,Occasional / Low-Value,Jennifer Martin,East,Corporate
+CUST-00140,58,14,16902.02,2,Loyal Customers,Veronica Ferguson,Central,Consumer
+CUST-00141,9,15,14745.32,2,Loyal Customers,Justin Johnson,North,Consumer
+CUST-00142,40,15,17262.45,2,Loyal Customers,Sean White,West,Consumer
+CUST-00143,15,19,20479.17,0,Champions,Daniel Murphy,South,Corporate
+CUST-00144,107,11,10043.67,3,At Risk,Diana Bean,West,Consumer
+CUST-00145,74,12,16563.170000000002,1,Occasional / Low-Value,Bradley Smith,Central,Consumer
+CUST-00146,20,17,18300.22,2,Loyal Customers,Trevor Walker,Central,Home Office
+CUST-00147,93,23,31716.9,0,Champions,Marissa Webster,South,Corporate
+CUST-00148,95,12,25908.46,2,Loyal Customers,Alex Hernandez,North,Consumer
+CUST-00149,33,16,21993.77,2,Loyal Customers,Brian Gould,West,Corporate
+CUST-00150,49,11,13768.61,1,Occasional / Low-Value,Pamela Jackson,South,Consumer
+CUST-00151,18,18,17492.57,2,Loyal Customers,Michelle Strickland,East,Corporate
+CUST-00152,15,15,28091.829999999998,0,Champions,Ashley Johnson,South,Corporate
+CUST-00153,116,18,27476.45,0,Champions,Susan Brooks,North,Corporate
+CUST-00154,25,17,14187.41,2,Loyal Customers,Kevin Rivas,Central,Corporate
+CUST-00155,20,13,18100.78,2,Loyal Customers,Raymond Jefferson,North,Corporate
+CUST-00156,57,14,16898.74,2,Loyal Customers,Rebecca Knight,West,Consumer
+CUST-00157,11,16,17941.39,2,Loyal Customers,Jeffrey Wood,South,Consumer
+CUST-00158,7,10,14274.2,1,Occasional / Low-Value,Alexandria Fisher,East,Consumer
+CUST-00159,44,14,14345.05,1,Occasional / Low-Value,Tyler Reid,Central,Corporate
+CUST-00160,3,21,21566.78,0,Champions,Christian Thompson,South,Consumer
+CUST-00161,5,19,27207.18,0,Champions,Debra Morton,West,Corporate
+CUST-00162,8,16,18077.34,2,Loyal Customers,Julie Petersen,Central,Home Office
+CUST-00163,18,15,12923.67,1,Occasional / Low-Value,Samuel Rivas,Central,Home Office
+CUST-00164,22,13,10201.42,1,Occasional / Low-Value,Jerry Christensen,Central,Corporate
+CUST-00165,2,20,27685.879999999997,0,Champions,Jamie Johnson,North,Corporate
+CUST-00166,185,12,17299.4,3,At Risk,John Kelly,South,Consumer
+CUST-00167,16,24,22907.37,0,Champions,Spencer Haynes,Central,Consumer
+CUST-00168,100,11,14663.470000000001,3,At Risk,Kellie Lee,Central,Corporate
+CUST-00169,2,21,27940.45,0,Champions,Katherine Chang,North,Consumer
+CUST-00170,25,15,14592.380000000001,2,Loyal Customers,Michael West,West,Corporate
+CUST-00171,4,19,25074.36,0,Champions,Daniel Holt,Central,Home Office
+CUST-00172,22,9,8950.48,1,Occasional / Low-Value,Jackie Tran,West,Consumer
+CUST-00173,41,18,17921.24,2,Loyal Customers,Patrick Rivera,East,Consumer
+CUST-00174,62,9,10256.03,1,Occasional / Low-Value,Eric Hall,West,Home Office
+CUST-00175,21,11,15906.17,1,Occasional / Low-Value,Bryan Herrera,West,Corporate
+CUST-00176,31,16,20287.54,2,Loyal Customers,Cheryl Rodgers,Central,Consumer
+CUST-00177,33,14,11676.68,1,Occasional / Low-Value,Vanessa Warren,West,Corporate
+CUST-00178,19,16,15352.35,2,Loyal Customers,Dr. Elizabeth Ward,Central,Corporate
+CUST-00179,6,18,23827.64,0,Champions,Joseph Hill,Central,Home Office
+CUST-00180,5,25,35759.18,0,Champions,Melissa Martinez,South,Consumer
+CUST-00181,23,17,20040.14,2,Loyal Customers,Ashley Smith,Central,Consumer
+CUST-00182,4,11,12621.970000000001,1,Occasional / Low-Value,Jeremiah Lopez,West,Corporate
+CUST-00183,93,14,20616.809999999998,2,Loyal Customers,Scott Wilson,West,Home Office
+CUST-00184,32,17,20613.33,2,Loyal Customers,Benjamin Soto,Central,Consumer
+CUST-00185,10,14,19194.15,2,Loyal Customers,Robert Avery,South,Home Office
+CUST-00186,116,20,17387.41,3,At Risk,Bailey Duran DDS,Central,Consumer
+CUST-00187,3,12,11353.66,1,Occasional / Low-Value,Patricia James,East,Corporate
+CUST-00188,57,10,11761.230000000001,1,Occasional / Low-Value,Scott Branch,North,Home Office
+CUST-00189,1,19,24122.41,0,Champions,Amy Choi,North,Corporate
+CUST-00190,19,16,19376.57,2,Loyal Customers,Christine Clark,West,Consumer
+CUST-00191,54,16,15878.57,2,Loyal Customers,David Arnold,West,Corporate
+CUST-00192,33,9,7942.07,1,Occasional / Low-Value,Jerry Wheeler,South,Home Office
+CUST-00193,2,15,21120.63,2,Loyal Customers,Dwayne Campbell,East,Consumer
+CUST-00194,9,14,15589.26,2,Loyal Customers,Michael Bradshaw,West,Corporate
+CUST-00195,6,13,13003.17,1,Occasional / Low-Value,Leah Lara,West,Corporate
+CUST-00196,3,12,13242.58,1,Occasional / Low-Value,Joshua Holland,North,Corporate
+CUST-00197,1,21,19519.329999999998,0,Champions,Charles Brown,Central,Consumer
+CUST-00198,7,10,10970.82,1,Occasional / Low-Value,Paul Carroll,West,Consumer
+CUST-00199,39,12,11687.68,1,Occasional / Low-Value,John Torres,North,Consumer
+CUST-00200,262,13,17987.440000000002,3,At Risk,Kathryn Snyder,South,Consumer
+CUST-00201,85,12,9335.06,1,Occasional / Low-Value,Stacy Navarro,Central,Consumer
+CUST-00202,16,14,13238.94,1,Occasional / Low-Value,Brandon Hayden,Central,Home Office
+CUST-00203,1,18,14985.35,2,Loyal Customers,Laurie Smith,West,Corporate
+CUST-00204,47,10,11484.98,1,Occasional / Low-Value,Debra Williams,North,Consumer
+CUST-00205,5,16,19636.48,2,Loyal Customers,Joseph Ramos,North,Corporate
+CUST-00206,57,18,13965.63,2,Loyal Customers,Kevin Walters,North,Corporate
+CUST-00207,6,16,26210.11,0,Champions,Julie Ortiz,East,Home Office
+CUST-00208,23,14,17778.71,2,Loyal Customers,Shannon Rivera,East,Consumer
+CUST-00209,16,13,15935.59,1,Occasional / Low-Value,Matthew Morales DDS,West,Consumer
+CUST-00210,1,13,19177.81,2,Loyal Customers,Ernest Morris,South,Consumer
+CUST-00211,102,12,15512.98,3,At Risk,Jose Travis,South,Consumer
+CUST-00212,4,17,23881.17,0,Champions,Julia Brown,West,Consumer
+CUST-00213,128,8,9870.33,3,At Risk,Peter Garrett,East,Corporate
+CUST-00214,17,19,28275.55,0,Champions,Derek Anderson,North,Consumer
+CUST-00215,1,14,11768.53,1,Occasional / Low-Value,Michael Martinez,Central,Corporate
+CUST-00216,4,23,24364.579999999998,0,Champions,Cynthia Moore,Central,Home Office
+CUST-00217,4,14,16958.18,2,Loyal Customers,Jason Walker,South,Consumer
+CUST-00218,31,11,11917.210000000001,1,Occasional / Low-Value,Julia Wilson,North,Consumer
+CUST-00219,10,17,20266.37,2,Loyal Customers,Timothy Carter,South,Corporate
+CUST-00220,92,13,15750.119999999999,3,At Risk,Ruben Baird,North,Corporate
+CUST-00221,4,15,21141.71,2,Loyal Customers,Charles Lee,North,Consumer
+CUST-00222,105,12,11644.81,3,At Risk,Sherry Shields,North,Home Office
+CUST-00223,1,16,20127.420000000002,2,Loyal Customers,Sarah Morgan,North,Corporate
+CUST-00224,10,15,17273.23,2,Loyal Customers,Samantha Campbell,North,Consumer
+CUST-00225,14,19,18645.52,2,Loyal Customers,Lauren Keller,Central,Consumer
+CUST-00226,53,14,12622.36,1,Occasional / Low-Value,Joshua Reed,West,Corporate
+CUST-00227,38,18,15294.220000000001,2,Loyal Customers,Jamie Cantu,Central,Home Office
+CUST-00228,25,10,9682.48,1,Occasional / Low-Value,Michael Armstrong,Central,Corporate
+CUST-00229,30,14,14212.22,1,Occasional / Low-Value,Jennifer Flores,South,Consumer
+CUST-00230,20,21,20420.78,0,Champions,Roberta Hughes,North,Consumer
+CUST-00231,1,19,21390.74,0,Champions,Marissa Hernandez,Central,Corporate
+CUST-00232,22,23,23276.95,0,Champions,Vincent Rivera,North,Corporate
+CUST-00233,73,15,22430.96,2,Loyal Customers,Jessica Fox,South,Consumer
+CUST-00234,130,19,20501.99,3,At Risk,Charles Pitts,South,Consumer
+CUST-00235,32,9,10053.630000000001,1,Occasional / Low-Value,Richard Baker,East,Consumer
+CUST-00236,184,3,2602.77,3,At Risk,Marie Christian,North,Corporate
+CUST-00237,32,16,28678.41,0,Champions,Kimberly Finley,East,Consumer
+CUST-00238,18,14,13165.64,1,Occasional / Low-Value,Olivia Brennan,Central,Corporate
+CUST-00239,34,13,14203.96,1,Occasional / Low-Value,Cynthia Cohen,East,Consumer
+CUST-00240,2,13,6568.68,1,Occasional / Low-Value,Nicole Hamilton MD,West,Home Office
+CUST-00241,52,10,11964.02,1,Occasional / Low-Value,Ashlee Jackson,South,Corporate
+CUST-00242,6,12,17735.5,2,Loyal Customers,Amber Flynn,East,Consumer
+CUST-00243,11,18,21547.54,0,Champions,Jeffrey Sanchez,West,Consumer
+CUST-00244,18,14,12356.85,1,Occasional / Low-Value,Rebecca Jackson,West,Consumer
+CUST-00245,13,13,15679.98,1,Occasional / Low-Value,Janet Vega,East,Corporate
+CUST-00246,46,21,22020.94,0,Champions,Briana Murray,West,Consumer
+CUST-00247,16,10,10344.539999999999,1,Occasional / Low-Value,Michael Nolan,South,Corporate
+CUST-00248,7,12,14225.78,1,Occasional / Low-Value,Megan Moore,Central,Home Office
+CUST-00249,20,10,6279.5599999999995,1,Occasional / Low-Value,Victoria Evans,South,Consumer
+CUST-00250,2,14,15888.03,2,Loyal Customers,Joyce Turner,East,Consumer
+CUST-00251,8,13,15706.89,1,Occasional / Low-Value,Ashley James,North,Consumer
+CUST-00252,27,17,27738.1,0,Champions,Wendy Phillips,East,Consumer
+CUST-00253,75,15,16099.05,2,Loyal Customers,Denise Knight,West,Consumer
+CUST-00254,135,17,23400.29,3,At Risk,Valerie Lozano,North,Home Office
+CUST-00255,26,7,12748.52,1,Occasional / Low-Value,Tanner Mitchell DDS,East,Corporate
+CUST-00256,37,8,14519.78,1,Occasional / Low-Value,Colleen Lee,Central,Consumer
+CUST-00257,35,20,26321.46,0,Champions,Michelle Hopkins,Central,Consumer
+CUST-00258,13,22,32276.62,0,Champions,Brent Burton,Central,Consumer
+CUST-00259,4,24,27055.22,0,Champions,Jeremiah Riley,North,Consumer
+CUST-00260,24,16,20267.56,2,Loyal Customers,Theodore Murphy,South,Home Office
+CUST-00261,11,18,17188.85,2,Loyal Customers,Carlos Ryan,South,Corporate
+CUST-00262,2,15,16111.369999999999,2,Loyal Customers,Susan Rivas,South,Corporate
+CUST-00263,19,12,14408.87,1,Occasional / Low-Value,Terry Coffey,East,Home Office
+CUST-00264,9,11,15821.31,1,Occasional / Low-Value,Gina Wilson,North,Consumer
+CUST-00265,12,18,20152.27,2,Loyal Customers,Vincent Dalton,North,Corporate
+CUST-00266,9,12,8623.119999999999,1,Occasional / Low-Value,Jennifer Singleton,South,Corporate
+CUST-00267,18,15,21955.079999999998,2,Loyal Customers,Richard Smith,South,Corporate
+CUST-00268,4,14,21815.44,2,Loyal Customers,Jacob Curry,East,Consumer
+CUST-00269,50,18,22422.15,0,Champions,Samantha Bentley,East,Home Office
+CUST-00270,9,25,24943.62,0,Champions,Kaitlyn Harvey,East,Consumer
+CUST-00271,34,17,28838.82,0,Champions,Leonard Holland,South,Consumer
+CUST-00272,4,16,17721.829999999998,2,Loyal Customers,Susan Turner,East,Consumer
+CUST-00273,16,16,24159.8,2,Loyal Customers,Andrew Johnson,Central,Consumer
+CUST-00274,135,15,17052.47,3,At Risk,David Medina,North,Corporate
+CUST-00275,38,8,10196.6,1,Occasional / Low-Value,Michael Paul,South,Consumer
+CUST-00276,20,7,6030.04,1,Occasional / Low-Value,Patrick Moore,North,Consumer
+CUST-00277,39,10,10414.89,1,Occasional / Low-Value,Sandra Gilbert,West,Consumer
+CUST-00278,64,22,25291.47,0,Champions,Amanda Wood,Central,Consumer
+CUST-00279,26,16,19175.46,2,Loyal Customers,David Cox,South,Corporate
+CUST-00280,25,14,11934.73,1,Occasional / Low-Value,Steven Newman,North,Corporate
+CUST-00281,15,15,14004.82,2,Loyal Customers,Colton Martinez,North,Consumer
+CUST-00282,69,13,13923.88,1,Occasional / Low-Value,Anna Lewis,South,Corporate
+CUST-00283,23,13,12418.52,1,Occasional / Low-Value,Alison Buchanan,East,Home Office
+CUST-00284,33,16,11591.32,1,Occasional / Low-Value,Rachel Harris DVM,North,Consumer
+CUST-00285,106,22,17950.06,0,Champions,Daniel Kane,Central,Consumer
+CUST-00286,2,11,11835.14,1,Occasional / Low-Value,Rachel Carlson,West,Home Office
+CUST-00287,13,11,11703.92,1,Occasional / Low-Value,Brianna Anderson,North,Consumer
+CUST-00288,18,14,19348.41,2,Loyal Customers,Ashley Delacruz,Central,Home Office
+CUST-00289,29,15,18288.739999999998,2,Loyal Customers,Richard Young,South,Corporate
+CUST-00290,46,11,15543.7,1,Occasional / Low-Value,Derek Martinez,West,Consumer
+CUST-00291,153,11,14081.85,3,At Risk,Nichole Alvarez,North,Consumer
+CUST-00292,95,18,15868.919999999998,2,Loyal Customers,Kevin Hayes,East,Corporate
+CUST-00293,15,24,22499.69,0,Champions,Amanda Logan,East,Corporate
+CUST-00294,14,17,18553.48,2,Loyal Customers,Elizabeth Schneider,Central,Corporate
+CUST-00295,17,16,17975.26,2,Loyal Customers,John Morales,South,Consumer
+CUST-00296,8,15,19810.37,2,Loyal Customers,Micheal Wallace,West,Consumer
+CUST-00297,41,16,15174.45,2,Loyal Customers,Lee Jones,West,Consumer
+CUST-00298,79,10,11165.689999999999,1,Occasional / Low-Value,Lauren Joseph,Central,Consumer
+CUST-00299,9,8,9376.02,1,Occasional / Low-Value,Kerry Chavez DDS,West,Consumer
+CUST-00300,50,27,31527.22,0,Champions,Ashley Pena,North,Consumer
+CUST-00301,6,15,16607.37,2,Loyal Customers,Michelle Lewis,South,Consumer
+CUST-00302,3,22,29086.06,0,Champions,Jennifer Wilcox,West,Consumer
+CUST-00303,28,13,10318.31,1,Occasional / Low-Value,Brandon Simmons,South,Consumer
+CUST-00304,11,13,17681.4,2,Loyal Customers,Troy Mcdaniel,Central,Consumer
+CUST-00305,75,13,12355.44,1,Occasional / Low-Value,Ronald Davis,East,Consumer
+CUST-00306,76,12,11678.34,1,Occasional / Low-Value,Jacqueline Anderson,East,Consumer
+CUST-00307,123,10,12610.13,3,At Risk,Kristina Rivera,Central,Corporate
+CUST-00308,36,15,12056.85,1,Occasional / Low-Value,Shane Pugh,Central,Corporate
+CUST-00309,36,14,13200.81,1,Occasional / Low-Value,Michelle Schmitt,South,Consumer
+CUST-00310,5,20,17639.87,2,Loyal Customers,Brian Romero,North,Corporate
+CUST-00311,14,13,13329.550000000001,1,Occasional / Low-Value,Courtney Rodriguez,West,Corporate
+CUST-00312,118,9,11766.98,3,At Risk,Ashley Ramirez,East,Corporate
+CUST-00313,10,11,11782.59,1,Occasional / Low-Value,Sarah Villegas,West,Consumer
+CUST-00314,14,17,16402.03,2,Loyal Customers,Megan Hawkins,Central,Corporate
+CUST-00315,39,22,21144.9,0,Champions,Sandra Adams,South,Home Office
+CUST-00316,73,11,15526.73,1,Occasional / Low-Value,Phillip Dorsey,Central,Corporate
+CUST-00317,47,10,10719.59,1,Occasional / Low-Value,Sergio Knight,East,Corporate
+CUST-00318,45,16,21291.17,2,Loyal Customers,Patrick Bonilla,North,Consumer
+CUST-00319,23,27,30374.32,0,Champions,Cindy Barnes,South,Consumer
+CUST-00320,1,20,24698.2,0,Champions,Eric Nguyen,East,Consumer
+CUST-00321,38,13,8104.6900000000005,1,Occasional / Low-Value,Sophia Moore,East,Corporate
+CUST-00322,20,15,12897.66,1,Occasional / Low-Value,Megan Nelson,South,Consumer
+CUST-00323,12,15,14875.960000000001,2,Loyal Customers,Lawrence Perry,Central,Consumer
+CUST-00324,4,20,22909.63,0,Champions,Ashley Jordan,East,Corporate
+CUST-00325,19,15,16872.96,2,Loyal Customers,Leslie Rose,North,Consumer
+CUST-00326,11,11,9939.62,1,Occasional / Low-Value,James Greene,East,Corporate
+CUST-00327,57,16,16882.51,2,Loyal Customers,Tony Saunders,West,Corporate
+CUST-00328,75,18,20835.07,2,Loyal Customers,Garrett Smith,Central,Home Office
+CUST-00329,8,20,29941.14,0,Champions,Carl Patel,Central,Consumer
+CUST-00330,19,18,20038.6,2,Loyal Customers,Sandra Drake,West,Consumer
+CUST-00331,7,17,22019.23,2,Loyal Customers,Patrick Graham,Central,Consumer
+CUST-00332,74,7,11849.42,1,Occasional / Low-Value,Shannon Johnston,South,Consumer
+CUST-00333,35,18,20290.8,2,Loyal Customers,Mark Roberts,East,Corporate
+CUST-00334,153,10,12387.529999999999,3,At Risk,Frederick Solis,East,Corporate
+CUST-00335,27,16,22912.93,2,Loyal Customers,Michael Cox,East,Home Office
+CUST-00336,31,18,20150.72,2,Loyal Customers,Dana Chapman,South,Home Office
+CUST-00337,24,16,11662.07,1,Occasional / Low-Value,Seth Reese,South,Corporate
+CUST-00338,44,14,14573.14,1,Occasional / Low-Value,Christopher Dixon,South,Corporate
+CUST-00339,54,18,21035.44,2,Loyal Customers,Cheyenne Parsons,West,Corporate
+CUST-00340,47,14,9731.31,1,Occasional / Low-Value,Sabrina Briggs,West,Home Office
+CUST-00341,1,10,12063.43,1,Occasional / Low-Value,David Thompson,Central,Corporate
+CUST-00342,4,19,15107.14,2,Loyal Customers,Mary Thompson,North,Corporate
+CUST-00343,53,19,23708.88,0,Champions,Julie Elliott,North,Consumer
+CUST-00344,1,13,13815.08,1,Occasional / Low-Value,Thomas Cunningham,North,Home Office
+CUST-00345,6,14,14684.3,1,Occasional / Low-Value,Mrs. Tricia Stewart,North,Consumer
+CUST-00346,8,12,12002.41,1,Occasional / Low-Value,Jeremy Turner,South,Corporate
+CUST-00347,52,7,13455.109999999999,1,Occasional / Low-Value,Heather Jones,North,Consumer
+CUST-00348,52,15,20090.66,2,Loyal Customers,Anthony Decker,East,Corporate
+CUST-00349,41,19,21593.74,0,Champions,Vanessa Davis,North,Corporate
+CUST-00350,12,18,28205.48,0,Champions,Julie Spencer,West,Corporate
+CUST-00351,15,15,18899.92,2,Loyal Customers,Amanda Stout,North,Consumer
+CUST-00352,15,15,19401.8,2,Loyal Customers,Erica Alvarez,North,Home Office
+CUST-00353,21,16,15580.92,2,Loyal Customers,Joanna Shepherd,South,Consumer
+CUST-00354,97,13,14737.119999999999,3,At Risk,Miguel Wagner,South,Home Office
+CUST-00355,1,16,19259.27,2,Loyal Customers,Michael Ritter,East,Consumer
+CUST-00356,7,12,12348.56,1,Occasional / Low-Value,Caitlin Watson,East,Consumer
+CUST-00357,41,14,20777.120000000003,2,Loyal Customers,Raymond Shelton,West,Consumer
+CUST-00358,51,14,18776.22,2,Loyal Customers,Maria Jones,North,Consumer
+CUST-00359,19,18,20724.19,2,Loyal Customers,Jasmine King,East,Corporate
+CUST-00360,22,19,25436.22,0,Champions,Susan Marks,South,Corporate
+CUST-00361,33,14,14812.52,1,Occasional / Low-Value,Matthew Rangel,North,Home Office
+CUST-00362,8,14,14747.79,1,Occasional / Low-Value,Melissa Myers,West,Consumer
+CUST-00363,19,12,14223.85,1,Occasional / Low-Value,Angela Hansen,Central,Consumer
+CUST-00364,19,19,27014.63,0,Champions,Robin Santiago,North,Consumer
+CUST-00365,4,24,29278.94,0,Champions,Yolanda Gaines,East,Consumer
+CUST-00366,11,15,17014.37,2,Loyal Customers,Jessica Cox,Central,Corporate
+CUST-00367,73,18,24431.76,0,Champions,Trevor Peterson,East,Consumer
+CUST-00368,108,13,22484.66,3,At Risk,Mr. Chad Jones,East,Consumer
+CUST-00369,14,16,16177.21,2,Loyal Customers,Katie Fernandez,West,Consumer
+CUST-00370,32,18,28697.99,0,Champions,Amanda Rogers,East,Consumer
+CUST-00371,13,12,12447.449999999999,1,Occasional / Low-Value,Linda Moore,Central,Consumer
+CUST-00372,25,13,19689.68,2,Loyal Customers,Patricia Lamb,South,Consumer
+CUST-00373,48,19,19250.13,2,Loyal Customers,Amanda Diaz,South,Consumer
+CUST-00374,5,17,13686.95,2,Loyal Customers,Jeremy Mitchell,West,Corporate
+CUST-00375,12,10,16189.36,1,Occasional / Low-Value,Cynthia Allen,Central,Consumer
+CUST-00376,27,13,13102.59,1,Occasional / Low-Value,Stephanie Lee,East,Consumer
+CUST-00377,16,22,21404.19,0,Champions,Victoria Murray,Central,Corporate
+CUST-00378,8,16,20190.39,2,Loyal Customers,Kathryn Barnes,Central,Consumer
+CUST-00379,2,23,33685.03,0,Champions,Rebecca Taylor,West,Consumer
+CUST-00380,42,15,22717.71,2,Loyal Customers,John Watson,East,Consumer
+CUST-00381,4,16,21020.53,2,Loyal Customers,Ryan Rosales,East,Home Office
+CUST-00382,49,13,14535.47,1,Occasional / Low-Value,Christopher Cole,Central,Consumer
+CUST-00383,23,10,12523.07,1,Occasional / Low-Value,Jeffrey Potts,South,Consumer
+CUST-00384,43,9,11508.01,1,Occasional / Low-Value,Stacey Arias,North,Consumer
+CUST-00385,81,13,13246.38,1,Occasional / Low-Value,Jonathan Young,Central,Home Office
+CUST-00386,22,19,20322.96,0,Champions,Alfred Galvan,West,Corporate
+CUST-00387,36,23,25703.989999999998,0,Champions,Gabriela Thomas,Central,Consumer
+CUST-00388,36,24,34308.55,0,Champions,Ronald Horton,South,Consumer
+CUST-00389,2,14,11591.93,1,Occasional / Low-Value,Julie Gilbert,West,Corporate
+CUST-00390,69,10,7712.17,1,Occasional / Low-Value,David Conley,North,Consumer
+CUST-00391,19,15,16516.55,2,Loyal Customers,Lisa Henderson,East,Home Office
+CUST-00392,32,19,21786.739999999998,0,Champions,Eric Williams,West,Consumer
+CUST-00393,236,10,9241.91,3,At Risk,Lisa Brown,East,Home Office
+CUST-00394,30,25,29005.85,0,Champions,Linda Smith,North,Consumer
+CUST-00395,45,20,20497.28,0,Champions,Michelle Carter,North,Consumer
+CUST-00396,12,18,19913.64,2,Loyal Customers,Cynthia Butler,North,Consumer
+CUST-00397,1,11,12715.48,1,Occasional / Low-Value,Kelly Ward,East,Consumer
+CUST-00398,99,15,14977.3,3,At Risk,Rachel Romero,South,Home Office
+CUST-00399,3,18,20659.79,2,Loyal Customers,John Reid,Central,Consumer
+CUST-00400,1,13,6720.389999999999,1,Occasional / Low-Value,Alan Kramer,Central,Corporate
+CUST-00401,20,13,16981.8,2,Loyal Customers,Matthew Garcia,South,Corporate
+CUST-00402,8,21,20735.34,0,Champions,Evelyn Williams,South,Corporate
+CUST-00403,31,19,18736.06,2,Loyal Customers,Marvin Greer,South,Consumer
+CUST-00404,41,21,30345.41,0,Champions,Michael Welch,North,Consumer
+CUST-00405,22,14,10954.2,1,Occasional / Low-Value,Mike Acevedo,South,Corporate
+CUST-00406,47,21,18881.17,0,Champions,Andrew Gonzalez,Central,Consumer
+CUST-00407,38,16,16187.31,2,Loyal Customers,Eric Sanders,North,Consumer
+CUST-00408,127,15,15724.31,3,At Risk,Dawn Mullins,South,Consumer
+CUST-00409,17,10,15763.509999999998,1,Occasional / Low-Value,Scott Williams,West,Home Office
+CUST-00410,15,15,11588.220000000001,1,Occasional / Low-Value,Caleb Richardson,East,Consumer
+CUST-00411,23,14,11066.11,1,Occasional / Low-Value,Jeremiah Huber,South,Consumer
+CUST-00412,13,15,16070.82,2,Loyal Customers,Kathleen Jimenez,East,Consumer
+CUST-00413,3,13,13690.65,1,Occasional / Low-Value,Debra Miller,East,Consumer
+CUST-00414,18,11,6799.42,1,Occasional / Low-Value,Lance Short,South,Consumer
+CUST-00415,30,17,13486.39,2,Loyal Customers,Brian Murphy,Central,Consumer
+CUST-00416,4,18,22363.42,0,Champions,Lance Simmons,West,Consumer
+CUST-00417,25,14,13659.31,1,Occasional / Low-Value,Jeremy Acosta,East,Corporate
+CUST-00418,3,16,28220.57,0,Champions,Zachary Hill,East,Corporate
+CUST-00419,5,14,18828.83,2,Loyal Customers,Angela Walsh,North,Corporate
+CUST-00420,29,17,25999.76,0,Champions,Nicole Moore,North,Consumer
+CUST-00421,49,14,16855.34,2,Loyal Customers,Lawrence Harrington,North,Consumer
+CUST-00422,43,14,20510.36,2,Loyal Customers,David Brewer,South,Consumer
+CUST-00423,19,10,11813.18,1,Occasional / Low-Value,Keith Jacobs,East,Consumer
+CUST-00424,7,12,15362.86,1,Occasional / Low-Value,Jacob Wallace,West,Home Office
+CUST-00425,175,14,18182.08,3,At Risk,Kendra Sanders,South,Consumer
+CUST-00426,14,17,25328.829999999998,0,Champions,Tyler Johnson,West,Corporate
+CUST-00427,59,15,19575.39,2,Loyal Customers,Mr. Justin Green III,Central,Corporate
+CUST-00428,73,11,12134.45,1,Occasional / Low-Value,Logan Benson,North,Consumer
+CUST-00429,19,11,12140.65,1,Occasional / Low-Value,Chad Jones,East,Corporate
+CUST-00430,11,13,11269.59,1,Occasional / Low-Value,Jill Miller,North,Corporate
+CUST-00431,4,8,9813.130000000001,1,Occasional / Low-Value,Victoria Contreras,North,Home Office
+CUST-00432,53,14,9745.93,1,Occasional / Low-Value,Joshua Vance,East,Home Office
+CUST-00433,44,12,19197.67,2,Loyal Customers,Michael Graves,South,Consumer
+CUST-00434,34,14,13378.09,1,Occasional / Low-Value,Katie Martinez,North,Consumer
+CUST-00435,132,11,16269.85,3,At Risk,Cynthia Snyder,South,Consumer
+CUST-00436,42,25,24910.54,0,Champions,Jackie Lara,Central,Corporate
+CUST-00437,25,15,21203.1,2,Loyal Customers,Stephen Jones,South,Consumer
+CUST-00438,99,19,31340.69,0,Champions,Dr. Kelly Hammond DVM,South,Corporate
+CUST-00439,60,9,12160.5,1,Occasional / Low-Value,Evan Jones,East,Consumer
+CUST-00440,33,11,13250.85,1,Occasional / Low-Value,Haley Humphrey,North,Corporate
+CUST-00441,113,11,10575.49,3,At Risk,Laurie Saunders,East,Corporate
+CUST-00442,16,18,15872.49,2,Loyal Customers,Thomas Brown,South,Home Office
+CUST-00443,128,17,17907.19,3,At Risk,Elizabeth Martin,South,Corporate
+CUST-00444,87,16,22476.1,2,Loyal Customers,Hannah Everett,North,Consumer
+CUST-00445,33,18,18700.36,2,Loyal Customers,Blake Gonzalez,North,Corporate
+CUST-00446,19,16,13321.68,2,Loyal Customers,Mario Mendez,Central,Corporate
+CUST-00447,42,18,21940.239999999998,0,Champions,Caroline David,South,Consumer
+CUST-00448,70,11,12930.67,1,Occasional / Low-Value,Marcus Winters,South,Consumer
+CUST-00449,38,10,8456.56,1,Occasional / Low-Value,Kristy Bryan,Central,Consumer
+CUST-00450,7,17,16528.01,2,Loyal Customers,Travis Wise,East,Home Office
+CUST-00451,3,17,19554.510000000002,2,Loyal Customers,Pamela Butler,Central,Corporate
+CUST-00452,2,21,22783.07,0,Champions,Stephen Gardner,Central,Consumer
+CUST-00453,56,6,7827.63,1,Occasional / Low-Value,Karen Ballard,North,Corporate
+CUST-00454,134,5,3930.5499999999997,3,At Risk,Jesse Barker,West,Corporate
+CUST-00455,20,15,11914.9,1,Occasional / Low-Value,John Harris,North,Consumer
+CUST-00456,29,21,20430.14,0,Champions,Scott Flores,South,Consumer
+CUST-00457,111,12,15716.89,3,At Risk,James Hodges,Central,Consumer
+CUST-00458,6,22,29661.18,0,Champions,Emma Owens,Central,Home Office
+CUST-00459,145,16,11168.34,3,At Risk,Charles Williams,North,Consumer
+CUST-00460,5,13,19345.1,2,Loyal Customers,Jennifer Estes,West,Home Office
+CUST-00461,24,22,21326.88,0,Champions,Garrett Lane,Central,Consumer
+CUST-00462,32,16,20897.35,2,Loyal Customers,Christopher Ferrell,East,Home Office
+CUST-00463,5,18,21279.46,2,Loyal Customers,Mr. Alexander Landry MD,North,Corporate
+CUST-00464,13,18,23957.83,0,Champions,Harry Williams,East,Consumer
+CUST-00465,99,11,10414.619999999999,3,At Risk,Sarah Chambers,Central,Corporate
+CUST-00466,46,16,14777.28,2,Loyal Customers,Sarah Jordan,South,Consumer
+CUST-00467,84,13,11938.29,1,Occasional / Low-Value,Jacob Powell,South,Consumer
+CUST-00468,21,11,10192.08,1,Occasional / Low-Value,Kelly Lee,East,Corporate
+CUST-00469,125,12,15854.49,3,At Risk,James Cole,Central,Corporate
+CUST-00470,42,12,7929.98,1,Occasional / Low-Value,William Becker,North,Consumer
+CUST-00471,38,13,8380.76,1,Occasional / Low-Value,Brent Brooks,South,Consumer
+CUST-00472,5,7,7727.18,1,Occasional / Low-Value,Holly Thomas,South,Consumer
+CUST-00473,16,19,24034.94,0,Champions,Kathryn Williams,North,Consumer
+CUST-00474,7,20,20881.67,0,Champions,Regina Stone,East,Consumer
+CUST-00475,1,17,21687.27,2,Loyal Customers,Kaylee Murphy,Central,Consumer
+CUST-00476,32,18,19290.07,2,Loyal Customers,James Jensen,West,Corporate
+CUST-00477,24,16,14147.45,2,Loyal Customers,George Clayton,East,Home Office
+CUST-00478,3,18,27501.09,0,Champions,Justin Wells Jr.,East,Consumer
+CUST-00479,30,17,17589.37,2,Loyal Customers,Veronica Silva,East,Home Office
+CUST-00480,23,16,14879.93,2,Loyal Customers,Shelby Soto,South,Corporate
+CUST-00481,78,12,15795.08,1,Occasional / Low-Value,Walter Patton,North,Corporate
+CUST-00482,2,12,14012.16,1,Occasional / Low-Value,Crystal Williams,South,Consumer
+CUST-00483,17,15,17637.69,2,Loyal Customers,Mark Harvey,East,Corporate
+CUST-00484,331,8,10001.7,3,At Risk,Roberto Allen,South,Consumer
+CUST-00485,12,19,27717.07,0,Champions,Ashley Smith,Central,Home Office
+CUST-00486,41,14,19517.86,2,Loyal Customers,Jason Harris,North,Consumer
+CUST-00487,21,19,18798.26,2,Loyal Customers,Tami Salas,Central,Home Office
+CUST-00488,35,11,12092.880000000001,1,Occasional / Low-Value,Michele Stone,South,Consumer
+CUST-00489,28,17,18952.61,2,Loyal Customers,Matthew Fox,Central,Corporate
+CUST-00490,34,15,13081.4,1,Occasional / Low-Value,Julia Patel,West,Home Office
+CUST-00491,7,13,14073.85,1,Occasional / Low-Value,Raymond Le,North,Consumer
+CUST-00492,52,12,15633.24,1,Occasional / Low-Value,Deborah Washington,North,Home Office
+CUST-00493,11,14,21182.18,2,Loyal Customers,Edwin David,East,Corporate
+CUST-00494,3,18,22379.98,0,Champions,Michele Vaughn,Central,Home Office
+CUST-00495,128,13,14547.48,3,At Risk,Gregory Peck,North,Consumer
+CUST-00496,3,11,9489.210000000001,1,Occasional / Low-Value,Donna Berry,South,Consumer
+CUST-00497,24,12,12022.76,1,Occasional / Low-Value,William Cardenas,Central,Corporate
+CUST-00498,26,14,10120.800000000001,1,Occasional / Low-Value,Donna Roberts,South,Corporate
+CUST-00499,9,17,21517.62,2,Loyal Customers,Thomas Douglas,Central,Consumer
+CUST-00500,223,18,15164.140000000001,3,At Risk,Dale Ryan,South,Consumer
+CUST-00501,1,17,23238.06,0,Champions,Denise Rodriguez,East,Home Office
+CUST-00502,31,20,12811.48,2,Loyal Customers,Dana Santiago,South,Corporate
+CUST-00503,19,18,21167.02,2,Loyal Customers,David Garcia,Central,Corporate
+CUST-00504,14,16,14225.65,2,Loyal Customers,Ashlee Townsend,East,Corporate
+CUST-00505,96,20,21057.25,0,Champions,Vanessa Moore,North,Home Office
+CUST-00506,15,11,13505.2,1,Occasional / Low-Value,Sherry Woods,West,Corporate
+CUST-00507,72,11,19368.61,1,Occasional / Low-Value,Donna Mitchell,Central,Consumer
+CUST-00508,28,13,17715.59,2,Loyal Customers,Ann Andrews,West,Consumer
+CUST-00509,46,19,22514.83,0,Champions,Sarah Johnson,West,Consumer
+CUST-00510,37,18,17020.93,2,Loyal Customers,Stephen Thompson,North,Consumer
+CUST-00511,29,19,17697.87,2,Loyal Customers,Russell French,East,Home Office
+CUST-00512,5,12,6777.450000000001,1,Occasional / Low-Value,Tonya Howe,Central,Consumer
+CUST-00513,2,17,26224.649999999998,0,Champions,Edwin Morrison,East,Corporate
+CUST-00514,2,13,9347.300000000001,1,Occasional / Low-Value,Mrs. Virginia Daniels,Central,Consumer
+CUST-00515,13,14,9650.23,1,Occasional / Low-Value,Brandi Gordon,East,Consumer
+CUST-00516,25,18,22923.0,0,Champions,Brian Martin,South,Consumer
+CUST-00517,6,14,18860.68,2,Loyal Customers,Michelle Smith,Central,Home Office
+CUST-00518,34,15,8505.51,1,Occasional / Low-Value,Laura Todd,Central,Home Office
+CUST-00519,41,14,9663.21,1,Occasional / Low-Value,Margaret Sullivan,Central,Corporate
+CUST-00520,159,7,3202.9700000000003,3,At Risk,Angie Caldwell,West,Corporate
+CUST-00521,34,10,9986.43,1,Occasional / Low-Value,Mrs. Taylor Smith,East,Home Office
+CUST-00522,5,17,19934.28,2,Loyal Customers,Paul Finley,West,Corporate
+CUST-00523,34,20,24789.0,0,Champions,Laura Green,Central,Corporate
+CUST-00524,8,21,22159.27,0,Champions,Amy Wilson,East,Consumer
+CUST-00525,19,24,25636.25,0,Champions,Michael Leblanc,East,Consumer
+CUST-00526,1,19,18485.4,2,Loyal Customers,Emily Wilson,South,Consumer
+CUST-00527,10,16,16700.13,2,Loyal Customers,Holly Walker,North,Corporate
+CUST-00528,46,18,18189.89,2,Loyal Customers,Jesse Zhang,South,Home Office
+CUST-00529,16,15,14673.029999999999,2,Loyal Customers,Joshua Ruiz,East,Home Office
+CUST-00530,14,21,23244.97,0,Champions,Samantha Gill,North,Home Office
+CUST-00531,32,14,15446.27,2,Loyal Customers,Shelley Miller,East,Corporate
+CUST-00532,5,17,24768.1,0,Champions,Heidi Stark,East,Corporate
+CUST-00533,30,11,16791.46,1,Occasional / Low-Value,Joshua Wagner,Central,Home Office
+CUST-00534,97,13,9723.25,3,At Risk,Carmen Bond,East,Consumer
+CUST-00535,2,16,21215.88,2,Loyal Customers,Daniel Aguilar,North,Consumer
+CUST-00536,7,12,11615.34,1,Occasional / Low-Value,Jill Brown,North,Corporate
+CUST-00537,4,13,14066.3,1,Occasional / Low-Value,Joyce Brown,West,Corporate
+CUST-00538,2,21,24333.32,0,Champions,Elizabeth Johnson,North,Consumer
+CUST-00539,9,18,24451.26,0,Champions,Nichole Lane,Central,Consumer
+CUST-00540,2,20,21309.13,0,Champions,Michael Weaver,Central,Consumer
+CUST-00541,51,18,22652.170000000002,0,Champions,Andrea Peck,South,Corporate
+CUST-00542,26,13,20610.27,2,Loyal Customers,Christopher Taylor,East,Corporate
+CUST-00543,4,21,21590.35,0,Champions,Maria Fisher,West,Corporate
+CUST-00544,15,10,13355.34,1,Occasional / Low-Value,Sergio Knox,East,Consumer
+CUST-00545,12,12,8734.01,1,Occasional / Low-Value,Victor Baxter,North,Consumer
+CUST-00546,117,11,17779.28,3,At Risk,Hannah White,West,Corporate
+CUST-00547,40,14,17083.5,2,Loyal Customers,Cameron Irwin,South,Consumer
+CUST-00548,11,12,14052.1,1,Occasional / Low-Value,Alexander Evans,North,Consumer
+CUST-00549,5,22,37868.66,0,Champions,Jessica Gray,North,Corporate
+CUST-00550,32,17,20405.79,2,Loyal Customers,Gregory Hill,South,Home Office
+CUST-00551,34,12,19270.65,2,Loyal Customers,Pamela Johnson,South,Corporate
+CUST-00552,10,16,15317.6,2,Loyal Customers,Ralph Stephenson,South,Consumer
+CUST-00553,6,9,12649.83,1,Occasional / Low-Value,Austin Wheeler,East,Consumer
+CUST-00554,33,17,15213.07,2,Loyal Customers,Michele Williams,North,Home Office
+CUST-00555,3,17,19121.02,2,Loyal Customers,Jeffrey Fernandez,North,Corporate
+CUST-00556,34,16,15644.029999999999,2,Loyal Customers,Amy Gordon,South,Corporate
+CUST-00557,91,12,20141.59,3,At Risk,Thomas Johnston,East,Consumer
+CUST-00558,48,16,16549.56,2,Loyal Customers,Megan Flores,West,Corporate
+CUST-00559,88,15,18093.87,2,Loyal Customers,Victoria Boyd,South,Corporate
+CUST-00560,40,13,18716.34,2,Loyal Customers,Antonio Fry,East,Consumer
+CUST-00561,12,20,26486.66,0,Champions,Casey Shelton,South,Consumer
+CUST-00562,144,15,19286.02,3,At Risk,William David DDS,West,Consumer
+CUST-00563,42,15,13031.6,1,Occasional / Low-Value,Melissa Russell,North,Home Office
+CUST-00564,46,17,16033.4,2,Loyal Customers,Paul Wells,East,Home Office
+CUST-00565,1,13,7831.11,1,Occasional / Low-Value,Scott Thomas,Central,Consumer
+CUST-00566,3,13,15615.599999999999,1,Occasional / Low-Value,Kristina Faulkner,Central,Corporate
+CUST-00567,27,15,16787.98,2,Loyal Customers,Jasmine Scott,West,Corporate
+CUST-00568,47,13,13520.349999999999,1,Occasional / Low-Value,Tammy Boone,East,Consumer
+CUST-00569,35,11,12528.64,1,Occasional / Low-Value,Sandra Williams,North,Consumer
+CUST-00570,103,15,13797.36,3,At Risk,Lindsey Russo,South,Consumer
+CUST-00571,22,13,17074.89,2,Loyal Customers,Laurie Powers,Central,Consumer
+CUST-00572,60,12,10883.42,1,Occasional / Low-Value,Sean Cook,North,Corporate
+CUST-00573,56,21,16162.07,2,Loyal Customers,Timothy Hayden,Central,Corporate
+CUST-00574,62,12,19901.61,2,Loyal Customers,Nicole Rocha,West,Corporate
+CUST-00575,5,21,23159.45,0,Champions,Christine Herman,West,Corporate
+CUST-00576,34,19,17024.03,2,Loyal Customers,Douglas Owens,South,Home Office
+CUST-00577,10,13,14744.49,1,Occasional / Low-Value,Dennis Hunt,North,Consumer
+CUST-00578,43,11,11571.25,1,Occasional / Low-Value,Robert Bowen,South,Consumer
+CUST-00579,25,14,17063.239999999998,2,Loyal Customers,Suzanne Wood,South,Corporate
+CUST-00580,64,13,22057.99,2,Loyal Customers,Sean Figueroa,South,Home Office
+CUST-00581,27,16,21094.37,2,Loyal Customers,Timothy Riley,Central,Consumer
+CUST-00582,7,18,22091.28,0,Champions,Craig Hall,South,Corporate
+CUST-00583,18,9,7271.12,1,Occasional / Low-Value,Kathryn Pena,North,Consumer
+CUST-00584,19,14,13851.640000000001,1,Occasional / Low-Value,Phillip Burns,West,Home Office
+CUST-00585,2,15,25832.52,0,Champions,Katherine Jackson,South,Consumer
+CUST-00586,18,14,18428.62,2,Loyal Customers,Charles Payne,South,Consumer
+CUST-00587,1,15,16397.79,2,Loyal Customers,Kimberly May,Central,Consumer
+CUST-00588,12,15,19318.23,2,Loyal Customers,Sara Jones,West,Consumer
+CUST-00589,3,18,22027.3,0,Champions,Pamela Gutierrez,North,Corporate
+CUST-00590,3,18,21852.48,0,Champions,Andrea Hernandez,North,Consumer
+CUST-00591,16,7,11138.71,1,Occasional / Low-Value,Jacqueline Williamson,West,Consumer
+CUST-00592,40,16,15013.83,2,Loyal Customers,Susan Hopkins,Central,Consumer
+CUST-00593,25,10,7049.53,1,Occasional / Low-Value,Juan Smith,East,Home Office
+CUST-00594,3,17,19481.11,2,Loyal Customers,Kimberly Mitchell,South,Consumer
+CUST-00595,41,10,14216.460000000001,1,Occasional / Low-Value,Megan Drake,North,Consumer
+CUST-00596,5,14,15291.96,2,Loyal Customers,Thomas Warren,East,Home Office
+CUST-00597,4,12,16833.82,1,Occasional / Low-Value,Joseph Ochoa,West,Consumer
+CUST-00598,25,12,16198.53,1,Occasional / Low-Value,Angela Chung,Central,Consumer
+CUST-00599,22,14,11233.619999999999,1,Occasional / Low-Value,Wanda Perez,North,Corporate
+CUST-00600,49,13,13253.7,1,Occasional / Low-Value,Angela Frey,West,Home Office
